@@ -6,7 +6,8 @@ module.exports = {
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif'],
         'roboto': ['Roboto', 'sans-serif'],
-        'source': ['Source Sans Pro', 'sans-serif']
+        'source': ['Source Sans Pro', 'sans-serif'],
+        'Vibes': ['Great Vibes', 'sans-serif']
       },
     },
   },

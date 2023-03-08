@@ -4,7 +4,7 @@ import Hero from '../Hero/Hero';
 
 const Home = () => {
     return (
-        <div>
+        <div >
             <Hero></Hero>
             <About></About>
         </div>
